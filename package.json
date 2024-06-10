@@ -1,0 +1,12 @@
+{
+  "name": "astro_issue",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev"
+  },
+  "dependencies": {
+    "astro": "4.10.2",
+    "typescript": "5.4.5"
+  }
+}
